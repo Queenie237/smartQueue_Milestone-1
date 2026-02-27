@@ -6,7 +6,6 @@
  * SmartQueue is a queue management system designed to organize clients
  * in service environments using digital queue tickets.
  */
-
 /**
  * Represents a queue ticket in the SmartQueue system.
  *
