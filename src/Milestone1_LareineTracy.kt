@@ -32,7 +32,7 @@ fun main() {
 
     val ticket1 = Ticket(
         ticketId = "T001",
-        userName = "Alice",
+        userName = "Marie",
         queueNumber = 1,
         isServed = false,
         serviceTime = null
