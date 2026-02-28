@@ -40,7 +40,7 @@ SmartQueue provides a digital and efficient alternative.
 
 ## 🛠 Technologies Used
 
-- Android Studio
+- intellij
 - Kotlin / Java
 - Firebase / SQLite (depending on implementation)
 - REST API (if backend connected)
